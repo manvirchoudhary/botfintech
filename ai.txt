@@ -1,0 +1,11 @@
+# In this we can add features in logics. We can also store these values in  a list item.
+
+# In this I have used while loops.
+
+# Also used f-string for fetching values 
+
+# TO RUN THIS PROGRAM, USE THIS COMMAND
+ 
+  	python filename.py
+
+  	e.g python bot.py
